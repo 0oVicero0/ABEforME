@@ -1,0 +1,34 @@
+[Adblock Plus 2.0]
+! [一些元素屏蔽规则]
+www.gandi.net###topbar
+www.iqiyi.com###goosBtn
+v.qq.com###hover_right
+www.iqiyi.com###widget-vipheader
+v.qq.com###act_shares
+v.qq.com###act_qrcode
+v.qq.com###action_ad
+v.qq.com###mod_recommend_ulike
+v.qq.com###mod_playlist
+v.qq.com###mod_recommend_film
+v.qq.com###mode_baidu_info
+v.qq.com##.mod_row.mod_row_s4
+youku.com###sideTool
+youku.com###ykSidebar_w970_custom
+youku.com###vpactionv5_wrap
+youku.com###videocomment
+youku.com###vpofficialrankingv5_wrap
+youku.com###miniSidebar
+youku.com###dailyRecommendBox
+youku.com###userSubRankBox
+youku.com##.box.nBox
+youku.com##.mainCol
+youku.com###qfooter
+youku.com###ykSidebar_w970
+youku.com###m_213253
+youku.com###m_215071
+youku.com##.yk-row-index.yk-drawer.yk-drawer-rec-subscribe
+bilibili.com###b_live
+bilibili.com###index_nav
+bilibili.com##.footer
+bilibili.com##.r-promote
+bilibili.com##.index-promote
