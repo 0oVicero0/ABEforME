@@ -35,6 +35,7 @@ bilibili.com##.index-promote
 
 ! ------------For Baidu----------
 !|127.0.0.1*/*guanjia?*
+||www.google-analytics.com/*
 ||*monitor.jpg?*
 ||ss1.bdstatic.com$script
 ||ss0.bdstatic.com$script
