@@ -33,7 +33,7 @@ bilibili.com##.footer
 bilibili.com##.r-promote
 bilibili.com##.index-promote
 
-! For Baidu
+! ------------For Baidu----------
 !|127.0.0.1*/*guanjia?*
 ||ss1.bdstatic.com$script
 ||ss0.bdstatic.com$script
