@@ -63,4 +63,3 @@
 ||tieba.baidu.com##.tbui_aside_float_bar
 ||hiphotos.baidu.com$domain=vip.baidu.com
 ||img.baidu.com/hunter/
-||cbjs.baidu.com^
