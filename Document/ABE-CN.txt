@@ -102,6 +102,7 @@
 ||hitsprocessor.com^
 ||webterren.com^
 ||staticsdo.com^
+||js.users.51.la^
 ||top.51.la^
 ||admaster.com.cn^
 ||ajiang.net^
