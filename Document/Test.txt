@@ -1,3 +1,5 @@
+[Adblock Plus 2.0]
+! [Test]
 ||dev.voicecloud.cn/*
 ||api.exc.mob.com/*
 ||event.beacon.qq.com/*
