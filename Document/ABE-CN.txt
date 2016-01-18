@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! [一些元素屏蔽规则]
+! ---------For Something---------
 ||www.google-analytics.com/*
 ||www.gandi.net###topbar
 ||www.iqiyi.com###goosBtn
@@ -34,7 +34,7 @@
 ||bilibili.com##.r-promote
 ||bilibili.com##.index-promote
 
-! ------------For Baidu----------
+! ----------For Baidu--------
 ||*guanjia?method=GetVersion*
 ||*monitor.jpg?xcode*
 ||ss1.bdstatic.com$script
@@ -63,7 +63,7 @@
 ||hiphotos.baidu.com$domain=vip.baidu.com
 ||img.baidu.com/hunter/
 
-! ------------For Trance----------
+! -------For Trance------
 ||dev.voicecloud.cn^
 ||api.exc.mob.com^
 ||event.beacon.qq.com^
@@ -135,5 +135,5 @@
 ||nsclick.baidu.com^
 ||pstatic.baidu.com^ 
 
-! ------------For Other----------
+! --------For Other------
 ||piaohua.com$script
