@@ -35,10 +35,11 @@
 ||bilibili.com##.index-promote
 
 ! ----------For Baidu--------
+baidu.com###content_right
+ss0.bdstatic.com$script
+ss1.bdstatic.com$script
 ||*guanjia?method=GetVersion*
 ||*monitor.jpg?xcode*
-||ss1.bdstatic.com$script
-||ss0.bdstatic.com$script
 ||tieba.baidu.com$object
 ||bdstatic.com$object
 ||bdstatic.com/tb/static-ppb/widget/frs_from_guide
