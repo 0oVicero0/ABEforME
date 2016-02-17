@@ -36,6 +36,7 @@
 
 ! ----------For Baidu--------
 baidu.com###content_right
+baidu.com##.to_tieba
 ss0.bdstatic.com$script
 ss1.bdstatic.com$script
 ||*guanjia?method=GetVersion*
