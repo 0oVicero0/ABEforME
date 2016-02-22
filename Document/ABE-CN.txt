@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
 ! ---------For Something---------
-||www.google-analytics.com/*
-||www.gandi.net###topbar
-||www.iqiyi.com###goosBtn
+||google-analytics.com/*
+||gandi.net###topbar
+||iqiyi.com###goosBtn
 ||v.qq.com###hover_right
-||www.iqiyi.com###widget-vipheader
+||iqiyi.com###widget-vipheader
 ||v.qq.com###act_shares
 ||v.qq.com###act_qrcode
 ||v.qq.com###action_ad
