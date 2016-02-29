@@ -60,7 +60,6 @@ bdstatic.com/tb/static-frs/widget/snowflow
 bdstatic.com/tb/static-ppb/img/save_face
 bdstatic.com/tb/_/flash_lcs_*.js
 pan.baidu.com/api/analytics?*
-pan.baidu.com/api/analytics?*
 tieba.baidu.com##*[id*="game"]
 tieba.baidu.com##*[data-daid]
 tieba.baidu.com##*[class*="achiev"]
@@ -130,14 +129,9 @@ www.trackmaster.com.cn^
 www.webdissector.com^
 www.weibomaster.com^
 mmstat.com^
-cb.baidu.com^
-cbjs.baidu.com^
 cjhq.baidu.com^
 clientclick.tv002.com^
-cpro.baidu.com^
-cpro.baidustatic.com^
 hc.baidu.com^
-nsclick.baidu.com^
 pstatic.baidu.com^ 
 
 ! --------For Other------
