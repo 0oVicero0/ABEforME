@@ -138,7 +138,6 @@ clientclick.tv002.com^
 cpro.baidu.com^
 cpro.baidustatic.com^
 hc.baidu.com^
-hm.baidu.com^
 nsclick.baidu.com^
 pstatic.baidu.com^ 
 
