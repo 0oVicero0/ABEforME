@@ -41,12 +41,12 @@ letv.com##[alt="开通会员免广告"]
 ! ----------For Baidu--------
 ||*guanjia?method=GetVersion*
 ||*monitor.jpg?xcode*
+||bdstatic.com$object
 baidu.com###content_right
 baidu.com##.to_tieba
 ss0.bdstatic.com$script
 ss1.bdstatic.com$script
 tieba.baidu.com$object
-bdstatic.com$object
 bdstatic.com/tb/static-ppb/widget/frs_from_guide
 bdstatic.com/tb/static-pcommon/widget/ad_stats
 bdstatic.com/tb/_/aside_float_bar_*.js
@@ -70,6 +70,8 @@ hiphotos.baidu.com$domain=vip.baidu.com
 img.baidu.com/hunter/
 
 ! -------For Trance------
+||icast.cn^
+||top.51.la^
 dev.voicecloud.cn^
 api.exc.mob.com^
 event.beacon.qq.com^
@@ -109,7 +111,6 @@ hitsprocessor.com^
 webterren.com^
 staticsdo.com^
 js.users.51.la^
-top.51.la^
 admaster.com.cn^
 ajiang.net^
 baifendian.com^
@@ -117,7 +118,6 @@ cdnmaster.com^
 cnzz.com^
 cnzz.net^
 gridsumdissector.com^
-icast.cn^
 ipinyou.com^
 linezing.com^
 mediav.com^
@@ -143,4 +143,4 @@ nsclick.baidu.com^
 pstatic.baidu.com^ 
 
 ! --------For Other------
-piaohua.com$script
+||piaohua.com$script
