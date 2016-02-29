@@ -25,9 +25,9 @@ youku.com###userSubRankBox
 youku.com##.box.nBox
 youku.com##.mainCol
 youku.com###qfooter
-youku.com###ykSidebar_w970
-youku.com###m_213253
-youku.com###m_215071
+youku.com###ykSidebar_*
+youku.com###m_*
+youku.com###m_*
 youku.com##.yk-row-index.yk-drawer.yk-drawer-rec-subscribe
 bilibili.com###b_live
 bilibili.com###index_nav
