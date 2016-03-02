@@ -1,5 +1,7 @@
 [Adblock Plus 2.0]
 ! ---------For Something---------
+cdn.v2ex.co/assets^
+cdn.v2ex.com/assets^
 google-analytics.com/*
 gandi.net###topbar
 iqiyi.com###Btn
