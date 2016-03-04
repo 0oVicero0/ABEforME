@@ -5,8 +5,10 @@ cdn.v2ex.com/assets^
 google-analytics.com/*
 gandi.net###topbar
 iqiyi.com###Btn
+iqiyi.com###goosBtn
 iqiyi.com##.nav_mag_dot
 iqiyi.com###widget-vipheader
+iqiyi.com###videoBuyNumTip
 v.qq.com###hover_right
 v.qq.com###act_shares
 v.qq.com###act_qrcode
