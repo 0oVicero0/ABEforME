@@ -10,6 +10,7 @@ iqiyi.com##.nav_mag_dot
 iqiyi.com###widget-vipheader
 iqiyi.com###videoBuyNumTip
 iqiyi.com###block-AZ
+iqiyi.com###block-U
 v.qq.com###hover_right
 v.qq.com###act_shares
 v.qq.com###act_qrcode
