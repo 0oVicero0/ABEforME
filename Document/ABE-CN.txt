@@ -11,6 +11,8 @@ iqiyi.com###widget-vipheader
 iqiyi.com###videoBuyNumTip
 iqiyi.com###widget-watchbyphonev2
 iqiyi.com##.ablum-download.pr
+iqiyi.com###J_grade-tip-box
+iqiyi.com##.hy-pop-style3
 iqiyi.com###block-AZ
 iqiyi.com###block-U
 v.qq.com###hover_right
