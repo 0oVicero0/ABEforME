@@ -4,7 +4,6 @@ cdn.v2ex.co/assets^
 cdn.v2ex.com/assets^
 google-analytics.com/*
 gandi.net###topbar
-msg.71.am^
 msg.iqiyi.com^
 msg.video.qiyi.com^
 iqiyi.com###Btn
