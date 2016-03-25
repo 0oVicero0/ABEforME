@@ -46,6 +46,7 @@ bilibili.com##.r-promote
 bilibili.com##.index-promote
 bilibili.com###bpoints_win
 bilibili.com##.bangumi-buybuybuy
+douyu.com###dy_bottom_shadow
 letv.com##.login_speed1.j-ub-tips.login_speed1_left
 letv.com##.login_speed1.j-ub-tips
 letv.com##[alt="开通会员免广告"]
