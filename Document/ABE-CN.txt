@@ -17,6 +17,9 @@ iqiyi.com###widget-appdown-random1
 iqiyi.com###bottomfix-login-reg
 iqiyi.com###block-AZ
 iqiyi.com###block-U
+iqiyi.com###J_mod-pop-upload
+iqiyi.com###iframe_request
+iqiyi.com###J_vip-ad-pop
 v.qq.com###hover_right
 v.qq.com###act_shares
 v.qq.com###act_qrcode
