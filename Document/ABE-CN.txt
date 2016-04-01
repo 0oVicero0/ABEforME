@@ -14,6 +14,7 @@ iqiyi.com###videoBuyNumTip
 iqiyi.com###widget-watchbyphonev2
 iqiyi.com##.ablum-download.pr
 iqiyi.com###widget-appdown-random1
+iqiyi.com###bottomfix-login-reg
 iqiyi.com###block-AZ
 iqiyi.com###block-U
 v.qq.com###hover_right
