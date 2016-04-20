@@ -43,6 +43,12 @@ youku.com###qfooter
 youku.com###ykSidebar_*
 youku.com###m_*
 youku.com##.yk-row-index.yk-drawer.yk-drawer-rec-subscribe
+douyu.com##.mantle
+douyu.com##.sq-wrap
+douyu.com##.no-login
+douyu.com###js-live-room-normal-equal-left
+douyu.com##A[href="/directory/game_center"]
+douyu.com##.o-download.fl
 bilibili.com###b_live
 bilibili.com###index_nav
 bilibili.com##.footer
