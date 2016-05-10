@@ -35,6 +35,7 @@ youku.com###vpactionv5_wrap
 youku.com###videocomment
 youku.com###vpofficialrankingv5_wrap
 youku.com###miniSidebar
+youku.com###seebuyGuide
 youku.com###dailyRecommendBox
 youku.com###userSubRankBox
 youku.com##.box.nBox
@@ -56,6 +57,7 @@ bilibili.com##.r-promote
 bilibili.com##.index-promote
 bilibili.com###bpoints_win
 bilibili.com##.bangumi-buybuybuy
+bilibili.com###b_promote
 douyu.com###dy_bottom_shadow
 letv.com##.login_speed1.j-ub-tips.login_speed1_left
 letv.com##.login_speed1.j-ub-tips
