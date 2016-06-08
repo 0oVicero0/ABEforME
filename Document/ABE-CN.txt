@@ -162,3 +162,5 @@ pstatic.baidu.com^
 
 ! --------For Other------
 ||piaohua.com$script
+||qucaigg.com^
+||qucaiad.com^
