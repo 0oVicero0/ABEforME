@@ -165,3 +165,4 @@ pstatic.baidu.com^
 ||piaohua.com$script
 ||qucaigg.com^
 ||qucaiad.com^
+||cr-nielsen.com^
