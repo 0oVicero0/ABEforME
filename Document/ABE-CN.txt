@@ -42,6 +42,7 @@ youku.com###qfooter
 youku.com###ykSidebar_*
 youku.com###m_*
 youku.com##.yk-row-index.yk-drawer.yk-drawer-rec-subscribe
+youku.com##.funny.fl
 douyu.com##.mantle
 douyu.com##.sq-wrap
 douyu.com##.no-login
