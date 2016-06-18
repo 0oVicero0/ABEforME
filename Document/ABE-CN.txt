@@ -10,6 +10,7 @@ iqiyi.com###Btn
 iqiyi.com###goosBtn
 iqiyi.com##.nav_mag_dot
 iqiyi.com###widget-vipheader
+iqiyi.com###widget-jingdongAd
 iqiyi.com###videoBuyNumTip
 iqiyi.com###widget-watchbyphonev2
 iqiyi.com##.ablum-download.pr
