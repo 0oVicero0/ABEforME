@@ -60,9 +60,9 @@ bilibili.com###b_promote
 dilidili.com##.module-cmt-float-bar
 dilidili.com###SOHU_MAIN
 dilidili.com###chunasqwd_*
-dilidili.com##.banner.ad*
+dilidili.com##.banner.adv
 dilidili.com##.adv.banner
-dilidili.com##.movebox.ad*
+dilidili.com##.movebox.adv*
 dilidili.com##.aside_rig.movebox
 douyu.com###dy_bottom_shadow
 letv.com##.login_speed1.j-ub-tips.login_speed1_left
