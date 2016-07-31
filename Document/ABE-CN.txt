@@ -59,6 +59,7 @@ bilibili.com##.bangumi-buybuybuy
 bilibili.com###b_promote
 dilidili.com##.module-cmt-float-bar
 dilidili.com###SOHU_MAIN
+dilidili.com###chunasqwd_*
 douyu.com###dy_bottom_shadow
 letv.com##.login_speed1.j-ub-tips.login_speed1_left
 letv.com##.login_speed1.j-ub-tips
