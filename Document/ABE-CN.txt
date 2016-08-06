@@ -66,6 +66,8 @@ dilidili.com##.movebox.adv*
 dilidili.com##.aside_rig.movebox
 dilidili.com##.copy_right
 dilidili.com##.zmfl
+dilidili.com##.back-top
+dilidili.com##.head_top
 douyu.com###dy_bottom_shadow
 letv.com##.login_speed1.j-ub-tips.login_speed1_left
 letv.com##.login_speed1.j-ub-tips
