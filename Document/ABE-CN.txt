@@ -178,5 +178,6 @@
 ||cr-nielsen.com^
 ||cdn.v2ex.co/assets^
 ||cdn.v2ex.com/assets^
+||cdn.v2ex.co/assets/sidebar^
 ||google-analytics.com^
 ||gandi.net###topbar
