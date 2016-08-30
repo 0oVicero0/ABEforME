@@ -1,0 +1,14 @@
+! dilidili.com
+dilidili.com###SOHU_MAIN
+dilidili.com##.head_top > .topimg
+dilidili.com###top_right > .right_top_ad
+dilidili.com##.clear.container > .copy_right > .links
+dilidili.com##.clear.container > .clear > .movebox.aside_rig > .adv
+dilidili.com##.clear.container > .clear > .aside_cen > .fl.adv.m-20
+dilidili.com##.clear.container > .clear > .movebox.aside_rig > .m-10.bbs_box
+dilidili.com##.clear.container > .clear > .movebox.aside_rig > .m-10.xf_new
+dilidili.com##.clear.container > .clear > .aside_cen > .zb.fl.m-20.con24:nth-of-type(5)
+dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-type(6)
+dilidili.com##.clear.container > .clear > .aside_cen > .zb.fl.m-20.con24:nth-of-type(8)
+dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-type(9)
+dilidili.com##.clear.container > .clear > .aside_cen > .fl.m-20.con24:nth-of-type(14)
