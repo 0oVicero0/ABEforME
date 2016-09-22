@@ -1,3 +1,5 @@
+!outlook.live.com
+outlook.live.com###primaryContainer > ._n_h
 ! dilidili.com
 dilidili.com###SOHU_MAIN
 dilidili.com##.head_top > .topimg
