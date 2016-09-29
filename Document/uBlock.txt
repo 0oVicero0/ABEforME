@@ -14,3 +14,11 @@ dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-
 dilidili.com##.clear.container > .clear > .aside_cen > .zb.fl.m-20.con24:nth-of-type(8)
 dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-type(9)
 dilidili.com##.clear.container > .clear > .aside_cen > .fl.m-20.con24:nth-of-type(14)
+！ bilibili.com
+bilibili.com###b_live
+bilibili.com###b_promote
+bilibili.com###index_nav > .nav-list
+bilibili.com###index_nav > .gotop.n-i
+bilibili.com###index_nav > .n-i-mlink.n-i
+bilibili.com###b_ad > .b-section-body
+
