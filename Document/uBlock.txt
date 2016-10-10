@@ -18,6 +18,7 @@ dilidili.com##.clear.container > .clear > .aside_cen > .fl.m-20.con24:nth-of-typ
 bilibili.com###b_live
 bilibili.com###mobile_p
 bilibili.com###b_promote
+bilibili.com###i_menu_become_vip
 bilibili.com###index_nav > .nav-list
 bilibili.com###index_nav > .gotop.n-i
 bilibili.com###index_nav > .n-i-mlink.n-i
@@ -28,4 +29,4 @@ bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .live
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-ml
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-zb
-
+bilibili.com##.b-page-body > .main-inner:nth-of-type(3) > .v_small > .v-live-recommend
