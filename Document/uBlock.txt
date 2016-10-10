@@ -19,6 +19,7 @@ bilibili.com###b_live
 bilibili.com###mobile_p
 bilibili.com###b_promote
 bilibili.com###i_menu_become_vip
+bilibili.com##.header > .header-link
 bilibili.com###index_nav > .nav-list
 bilibili.com###index_nav > .gotop.n-i
 bilibili.com###index_nav > .n-i-mlink.n-i
