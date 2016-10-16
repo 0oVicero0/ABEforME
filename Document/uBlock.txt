@@ -33,6 +33,7 @@ bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top
 bilibili.com##.b-page-body > .main-inner:nth-of-type(3) > .v_small > .v-live-recommend
 !bbs.wfun.com
 bbs.wfun.com###sd
+bbs.wfun.com###mn_Nf2fa
 bbs.wfun.com###mn > .hslice
 bbs.wfun.com###mn > .index_app_list
 bbs.wfun.com###fixed_nv > a[href^="plugin.php"]
