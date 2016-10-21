@@ -1,5 +1,6 @@
 !outlook.live.com
 outlook.live.com###primaryContainer > ._n_h
+
 ! dilidili.com
 dilidili.com###SOHU_MAIN
 dilidili.com##.head_top > .topimg
@@ -9,11 +10,19 @@ dilidili.com##.clear.container > .clear > .movebox.aside_rig > .adv
 dilidili.com##.clear.container > .clear > .aside_cen > .fl.adv.m-20
 dilidili.com##.clear.container > .clear > .movebox.aside_rig > .m-10.bbs_box
 dilidili.com##.clear.container > .clear > .movebox.aside_rig > .m-10.xf_new
+dilidili.com##.clear.container > .clear > .aside_cen > .m-20:nth-of-type(2)
 dilidili.com##.clear.container > .clear > .aside_cen > .zb.fl.m-20.con24:nth-of-type(5)
 dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-type(6)
 dilidili.com##.clear.container > .clear > .aside_cen > .zb.fl.m-20.con24:nth-of-type(8)
 dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-type(9)
 dilidili.com##.clear.container > .clear > .aside_cen > .fl.m-20.con24:nth-of-type(14)
+dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(2)
+dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(3)
+dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(4)
+dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(5)
+dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(6)
+dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(8)
+
 ！ bilibili.com
 bilibili.com###b_live
 bilibili.com###mobile_p
@@ -31,6 +40,7 @@ bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-ml
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-zb
 bilibili.com##.b-page-body > .main-inner:nth-of-type(3) > .v_small > .v-live-recommend
+
 !bbs.wfun.com
 bbs.wfun.com###sd
 bbs.wfun.com###mn_Nf2fa
