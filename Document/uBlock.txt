@@ -21,6 +21,8 @@ dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .con24:nt
 dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .con24:nth-of-type(6)
 dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .banner.adv:nth-of-type(3)
 dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .xf_news.m-10.con24 > .adv3
+dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .clear.con24.detail > dl > dd > .button_bar
+dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .clear.con24.detail > dl > dd > .d_label2:nth-of-type(8) > a[href="javascript:;"]
 dilidili.com##.clear.container > .clear > .movebox.adv2 > .movebox.aside_rig > .m-10.zx_add
 dilidili.com##.clear.container > .clear > .movebox.adv2 > a[href="http://yys.dilidili.tv/"]
 dilidili.com##.clear.container > .clear > .movebox.adv2 > .movebox.aside_rig > a[href="http://emoji.adesk.com/"]
