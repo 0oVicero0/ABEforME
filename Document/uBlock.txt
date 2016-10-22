@@ -11,17 +11,21 @@ dilidili.com##.clear.container > .clear > .aside_cen > .fl.adv.m-20
 dilidili.com##.clear.container > .clear > .movebox.aside_rig > .m-10.bbs_box
 dilidili.com##.clear.container > .clear > .movebox.aside_rig > .m-10.xf_new
 dilidili.com##.clear.container > .clear > .aside_cen > .m-20:nth-of-type(2)
+dilidili.com##.clear.container > .clear > .aside_cen > .fl.m-20.con24:nth-of-type(14)
 dilidili.com##.clear.container > .clear > .aside_cen > .zb.fl.m-20.con24:nth-of-type(5)
 dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-type(6)
 dilidili.com##.clear.container > .clear > .aside_cen > .zb.fl.m-20.con24:nth-of-type(8)
 dilidili.com##.clear.container > .clear > .aside_cen > .tj.fl.m-20.con24:nth-of-type(9)
-dilidili.com##.clear.container > .clear > .aside_cen > .fl.m-20.con24:nth-of-type(14)
+dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(6) > .banner.adv
+dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .banner.adv:nth-of-type(3)
+dilidili.com##.clear.container > .clear > .aside_cen2:nth-of-type(2) > .xf_news.m-10.con24 > .adv3
 dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(2)
 dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(3)
 dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(4)
 dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(5)
 dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(6)
 dilidili.com###topnavf > .w1410 > .fl.nav_lef:nth-of-type(1) > li:nth-of-type(8)
+dilidili.com##.clear.container > .clear > .movebox.aside_rig > .movebox.aside_rig > a[href="http://yys.dilidili.tv/"]
 
 ！ bilibili.com
 bilibili.com###b_live
