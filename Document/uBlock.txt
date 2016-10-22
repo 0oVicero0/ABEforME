@@ -47,11 +47,14 @@ bilibili.com###index_nav > .n-i-mlink.n-i
 bilibili.com###b_ad > .b-section-body
 bilibili.com##.header > .num > .menu-wrapper > .nav-menu > .m-i-ex.m-i-square.m-i
 bilibili.com##.header > .num > .menu-wrapper > .nav-menu > .m-i-last.m-i-live.m-i
+bilibili.com##.b-page-body > .main-inner:nth-of-type(3) > .v_small > .v-live-recommend
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-gc
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .live
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-ml
 bilibili.com##.z_top_container > .white.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-zb
-bilibili.com##.b-page-body > .main-inner:nth-of-type(3) > .v_small > .v-live-recommend
+bilibili.com##.z_top_container > .b-header-blur-black.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-zb
+bilibili.com##.z_top_container > .b-header-blur-black.b-header-blur.z_top > .z_header > .z_top_nav > ul > .b-gc
+bilibili.com##.z_top_container > .b-header-blur-black.b-header-blur.z_top > .z_header > .z_top_nav > ul > .hbili
 
 !bbs.wfun.com
 bbs.wfun.com###sd
