@@ -1,5 +1,8 @@
-!outlook.live.com
+! outlook.live.com
 outlook.live.com###primaryContainer > ._n_h
+
+! transip.nl
+stackstorage.com##.header
 
 ! dilidili.com
 dilidili.com###SOHU_MAIN
