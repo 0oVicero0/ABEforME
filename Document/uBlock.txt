@@ -5,7 +5,8 @@ outlook.live.com###primaryContainer > ._n_h
 stackstorage.com##.header
 
 ! PT
-chdbits.co/adredir.php^
+chdbits.co###ad_header
+chdbits.co##a[href^="adredir.php"]
 
 ! dilidili.com
 dilidili.com###SOHU_MAIN
