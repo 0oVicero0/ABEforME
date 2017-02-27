@@ -4,6 +4,9 @@ outlook.live.com###primaryContainer > ._n_h
 ! transip.nl
 stackstorage.com##.header
 
+! PT
+chdbits.co/adredir.php^
+
 ! dilidili.com
 dilidili.com###SOHU_MAIN
 dilidili.com##.head_top > .topimg
