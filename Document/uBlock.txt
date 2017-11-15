@@ -79,7 +79,5 @@ bbs.wfun.com###mn_Nf2fa > a[href^="plugin.php"]
 
 !Google
 ||*google-analytics.com*
-||*fonts.googleapis.com*
-||apis.google.com/js/plusone.js
-||ajax.googleapis.com/ajax/libs/jquery
+
 
