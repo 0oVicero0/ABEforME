@@ -75,11 +75,11 @@ bbs.wfun.com###fixed_nv > a[href^="plugin.php"]
 bbs.wfun.com###mn_Nf2fa > a[href^="plugin.php"]
 
 !xmr
-||*.chatango.com*$subdocument
+||*chatango.com*
 
 !Google
-||*.google-analytics.com*$subdocument
-||*.fonts.googleapis.com*$subdocument
+||*google-analytics.com*
+||*fonts.googleapis.com*
 ||apis.google.com/js/plusone.js
 ||ajax.googleapis.com/ajax/libs/jquery
 
